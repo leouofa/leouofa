@@ -1,4 +1,8 @@
-### Hi there 👋
+## 🏆 Co–founder @ [StoryPRO](https://www.storypro.io)
+
+#### 💻  Full Stack Engineer
+
+#### 🎶  Part Time Musician
 
 <!--
 **leouofa/leouofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
