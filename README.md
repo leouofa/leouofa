@@ -1,8 +1,16 @@
-## 🏆 Co–founder @ [StoryPRO](https://www.storypro.io)
+## 👋 Leonid Medovyy 
 
-#### 💻  Full Stack Engineer
+#### 💻  &nbsp;Full-Time Engineer
+- I'm a Co-founder of [StoryPRO](https://www.storypro.io). An interactive content publishing platform.
 
-#### 🎶  Part Time Musician
+
+#### 🎶  &nbsp;Part-Time Musician
+- My last album on [Apple Music](https://music.apple.com/us/artist/leonid-eduardovich-medovyy/1522392618) (and other streaming services). If you like math, science, and hip-hop then it's probably for you.
+- My [SoundCloud](https://soundcloud.com/leonid-medovyy) has a bunch of unreleased ambient music.
+
+#### 🔭 &nbsp;Projects I'm involved in
+- [EvoX](https://github.com/realstorypro/evox) - CLI Songbook Generator.
+- [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
 
 <!--
 **leouofa/leouofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
