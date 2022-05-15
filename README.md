@@ -11,6 +11,7 @@
 #### 🔭 &nbsp;Projects I'm involved in
 - [EvoX](https://github.com/realstorypro/evox) - CLI Songbook Generator.
 - [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
+- [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby UI framework that addresses linguistic complexity of designing modern user interfaces.
 
 <!--
 **leouofa/leouofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
