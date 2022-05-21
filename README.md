@@ -5,7 +5,7 @@
 
 
 #### 🎶  &nbsp;Part-Time Musician
-- My last album on [Apple Music](https://music.apple.com/us/artist/leonid-eduardovich-medovyy/1522392618) (and other streaming services). If you like math, science, and hip-hop then it's probably for you.
+- My last album is on [Apple Music](https://music.apple.com/us/artist/leonid-eduardovich-medovyy/1522392618) (and other streaming services). If you like math, science, and hip-hop then it's probably for you.
 - My [SoundCloud](https://soundcloud.com/leonid-medovyy) has a bunch of unreleased ambient music.
 
 #### 🔭 &nbsp;Projects I'm involved in
@@ -13,6 +13,10 @@
 - [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
 - [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby a modern Ruby framework that addresses linguistic complexity of designing user interfaces.
 - [LaunchBeat](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians make music fast by leveraging the similarity between computer keyboards and grid controllers.
+
+#### 📖 &nbsp;Currently Learninig
+- Web Assembly.
+- Japanese.
 
 <!--
 **leouofa/leouofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
