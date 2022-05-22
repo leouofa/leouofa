@@ -15,8 +15,10 @@
 - [LaunchBeat](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians make music fast by leveraging the similarity between computer keyboards and grid controllers.
 
 #### 📖 &nbsp;Currently Learninig
-- Web Assembly.
+- Rust.
+- WebAssembly.
 - Japanese.
+
 
 <!--
 **leouofa/leouofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
