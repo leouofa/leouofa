@@ -1,7 +1,7 @@
 ## 👋 Leonid Medovyy 
 
 #### 💻  &nbsp;Full-Time Engineer
-- I'm a Co-founder of [StoryPRO](https://www.storypro.io). A low-code marketing platform.
+- I'm a Co-founder of [StoryPRO](https://www.storypro.io).
 
 
 #### 🎶  &nbsp;Part-Time Musician
