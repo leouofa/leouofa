@@ -1,7 +1,7 @@
 ## 👋 Leonid Medovyy 
 
 #### 💻  &nbsp;Full-Time Engineer
-- I'm a Co-founder of [StoryPRO](https://www.storypro.io). An interactive content publishing platform.
+- I'm a Co-founder of [StoryPRO](https://www.storypro.io). A low-code marketing platform.
 
 
 #### 🎶  &nbsp;Part-Time Musician
@@ -9,10 +9,10 @@
 - My [SoundCloud](https://soundcloud.com/leonid-medovyy) has a bunch of unreleased ambient music.
 
 #### 🔭 &nbsp;Projects I'm involved in
+- [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby a modern Ruby framework that addresses linguistic complexity of designing user interfaces.
+- [LaunchBEAT](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians learn music fast by leveraging the similarity between computer keyboards and grid controllers.
 - [EvoX](https://github.com/realstorypro/evox) - CLI Songbook Generator.
 - [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
-- [Rapid UI](https://github.com/realstorypro/rapid-ui) - A Ruby a modern Ruby framework that addresses linguistic complexity of designing user interfaces.
-- [LaunchBeat](https://github.com/realstorypro/launch-beat) - An online tool helping new musicians make music fast by leveraging the similarity between computer keyboards and grid controllers.
 
 #### 📖 &nbsp;Currently Learninig
 - Rust.
