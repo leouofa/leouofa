@@ -15,8 +15,7 @@
 - [Language Accelerator](https://github.com/realstorypro/language-accelerator) - A set of Ruby scripts to help with language acquisition.
 
 #### 📖 &nbsp;Currently Learninig
-- Rust.
-- WebAssembly.
+- AssemblyScript.
 - Japanese.
 
 
