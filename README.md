@@ -16,7 +16,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Mobile](https://img.shields.io/badge/-React%20Native%20%2F%20Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -38,7 +40,9 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![SPARQL](https://img.shields.io/badge/-QLever%20%2F%20SPARQL-5B82A6?style=flat-square)  
   *Local, privacy-first read-only English Wikidata Truthy SPARQL endpoint powered by QLever for offline, verified knowledge grounding.*
+
 ---
+
 #### 🎮 Creative, Music & Audio-Visual Tools
 - **[Ninja Survivor](https://github.com/leouofa/ninja-survivor)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
@@ -58,17 +62,20 @@
   *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
 - **[Evox](https://github.com/leouofa/evox)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-  *The PDF songbook generator for the masses — streamlining lyric sheet and chord chart compilation into clean, printable songbooks.*
+  *A PDF songbook generator built to streamline lyric sheet and chord chart compilation into clean, printable songbooks.*
 - **[Book Rhino](https://github.com/leouofa/book-rhino)**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
   *AI-powered authoring and production assistant designed to accelerate writing, editing, and book layout workflows.*
+
 ---
+
 #### ⚡ Productivity, Habits & Web Frameworks
 - **[Ninja Coach](https://github.com/ninja-in-brazil/ninja-coach)**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)  
   *AI-powered performance coach engineered to help high-performers establish and sustain elite daily routines.*
 - **[Ninja Track](https://github.com/ninja-in-brazil/ninja-track)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -76,14 +83,16 @@
   *A focused mobile habit tracker built to cultivate consistency without cognitive friction or interface overwhelm.*
 - **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
   *Component-driven UI development framework for Ruby on Rails, building modular, testable interfaces on top of ViewComponent.*
+
 ---
+
 #### 🛠️ Developer Tooling & Systems
 - **[Super Dotfiles](https://github.com/ninja-in-brazil/super-dotfiles)**  
   ![Shell](https://img.shields.io/badge/-Zsh%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
   ![Lua](https://img.shields.io/badge/-Lua%20(Neovim)-2C2D72?style=flat-square&logo=lua&logoColor=white)  
-  *The CLI as an instrument — an ergonomic macOS terminal and development environment tuned for maximum efficiency and flow.*
+  *An ergonomic macOS terminal and development environment that treats the CLI as an instrument, tuned for maximum efficiency and flow.*
 - **[Simple Backup](https://github.com/macron1-automations/simple-backup)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *A reliable, lightweight backup automation utility built to keep critical personal data safe and effortlessly archived.*
