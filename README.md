@@ -12,12 +12,15 @@
 ### Tech Stack & Toolbox
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Mobile](https://img.shields.io/badge/-React%20Native%20%2F%20Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,6 +33,7 @@
 - **[MacronX](https://github.com/macron1-automations/macronx)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
   *Personal open-source intelligence (OSINT) intake, indexing, and analysis pipeline designed for offline-first research and investigation.*
 - **[MacronX TUI](https://github.com/macron1-automations/macronx-tui)**  
@@ -40,6 +44,16 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![SPARQL](https://img.shields.io/badge/-QLever%20%2F%20SPARQL-5B82A6?style=flat-square)  
   *Local, privacy-first read-only English Wikidata Truthy SPARQL endpoint powered by QLever for offline, verified knowledge grounding.*
+- **[VectorQA](https://github.com/leouofa/vector-qa)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI%20Embeddings-412991?style=flat-square&logo=openai&logoColor=white)  
+  *Open-source semantic search and Q&A application leveraging vector embeddings to power intelligent document question answering.*
+- **[Web Speakeasy](https://github.com/leouofa/web-speakeasy)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Decentralized](https://img.shields.io/badge/-P2P%20%2F%20Decentralized-111111?style=flat-square)  
+  *Decentralized, privacy-preserving messaging application engineered to combat unlawful surveillance and protect communication freedom.*
 
 ---
 
@@ -64,10 +78,11 @@
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *A PDF songbook generator built to streamline lyric sheet and chord chart compilation into clean, printable songbooks.*
 - **[Book Rhino](https://github.com/leouofa/book-rhino)**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
+  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
   *AI-powered authoring and production assistant designed to accelerate writing, editing, and book layout workflows.*
 
 ---
