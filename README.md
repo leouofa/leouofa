@@ -1,15 +1,15 @@
-### Leonid Medovyy
+## Leonid Medovyy
 
 - 🧑‍🚀 I am Principle Full-Stack Software Engineer (with 20+ years of experience). 
-- 🧮 I started programming calculators at age 6.
+- 🔟 I started programming calculators at age 6.
 - 💾 My web dev journey began in 1996 (with HTML and Notepad).
-- 🦾 My first desktop programming language was Visual Basic (1997).
-- 🏫 I graduated from College (UofA) in 2007 with degrees in MIS and OM.
+- 🖥️ My first desktop programming language was Visual Basic (1997).
+- 🎓 I graduated from College (UofA) in 2007 with degrees in MIS and OM.
 - 💎 I fell in love with Ruby on Rails in 2011 and have been using it ever since.
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### Tech Stack & Toolbox
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -25,7 +25,7 @@
 ![Bash / Zsh](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-### 🚀 Open Source Work
+### Open Source Work
 #### 🔍 OSINT & Knowledge Systems
 - **[MacronX](https://github.com/macron1-automations/macronx)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
