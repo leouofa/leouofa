@@ -7,6 +7,8 @@
 - 🏫 I graduated from College (UofA) in 2007 with degrees in MIS and OM.
 - 💎 I fell in love with Ruby on Rails in 2011 and have been using it ever since.
 
+---
+
 ### 🛠️ Tech Stack & Toolbox
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
@@ -17,6 +19,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash / Zsh](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
@@ -50,6 +53,9 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   ![Web](https://img.shields.io/badge/-Web%20Audio%20%2F%20MIDI-FF6C37?style=flat-square)  
   *Open-source interactive chord & scale visualizer supporting piano, guitar, ukulele, and Novation Launchpad grid controllers.*
+- **[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+  *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
 - **[Evox](https://github.com/leouofa/evox)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *The PDF songbook generator for the masses — streamlining lyric sheet and chord chart compilation into clean, printable songbooks.*
