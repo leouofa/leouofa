@@ -96,14 +96,18 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Mobile](https://img.shields.io/badge/-React%20Native%20%2F%20Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)  
   *A focused mobile habit tracker built to cultivate consistency without cognitive friction or interface overwhelm.*
+
+- **[Language Accelerator](https://github.com/leouofa/language-accelerator)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+  *Automated vocabulary extraction and frequency-ranking pipeline in Ruby to accelerate foreign language learning from PDF literature.*
+
+---
+
+#### 🛠️ Frameworks, Systems & Developer Tooling
 - **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
   *Component-driven UI development framework for Ruby on Rails, building modular, testable interfaces on top of ViewComponent.*
-
----
-
-#### 🛠️ Developer Tooling & Systems
 - **[Super Dotfiles](https://github.com/ninja-in-brazil/super-dotfiles)**  
   ![Shell](https://img.shields.io/badge/-Zsh%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
   ![Lua](https://img.shields.io/badge/-Lua%20(Neovim)-2C2D72?style=flat-square&logo=lua&logoColor=white)  
