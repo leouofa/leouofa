@@ -28,8 +28,13 @@
 ![Bash / Zsh](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
+---
+
 ### Open Source Work
-#### 🔍 OSINT & Knowledge Systems
+
+---
+
+### 🔍 OSINT & Knowledge Systems
 **[MacronX](https://github.com/macron1-automations/macronx)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
@@ -61,7 +66,7 @@
 
 ---
 
-#### 🎮 Creative, Music & Audio-Visual Tools
+### 🎮 Creative, Music & Audio-Visual Tools
 **[Ninja Survivor](https://github.com/leouofa/ninja-survivor)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
@@ -82,20 +87,20 @@
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
   *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
 
-**[Evox](https://github.com/leouofa/evox)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-  *A PDF songbook generator built to streamline lyric sheet and chord chart compilation into clean, printable songbooks.*
-
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
   *AI-powered authoring and production assistant designed to accelerate writing, editing, and book layout workflows.*
+  
+**[Evox](https://github.com/leouofa/evox)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+  *A PDF songbook generator built to streamline lyric sheet and chord chart compilation into clean, printable songbooks.*
 
 ---
 
-#### ⚡ Productivity, Habits & Web Frameworks
+### ⚡ Productivity, Habits & Web Frameworks
 **[Ninja Coach](https://github.com/ninja-in-brazil/ninja-coach)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)  
@@ -112,7 +117,7 @@
 
 ---
 
-#### 🛠️ Frameworks, Systems & Developer Tooling
+### 🛠️ Frameworks, Systems & Developer Tooling
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
