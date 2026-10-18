@@ -66,7 +66,7 @@
 
 ---
 
-### 🎮 Creative, Music & Audio-Visual Tools
+### 🎮 Creative, Publishing, Music & Audio-Visual Tools
 **[Ninja Survivor](https://github.com/leouofa/ninja-survivor)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
@@ -86,6 +86,11 @@
 **[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
   *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
+
+**[Booksmith](https://github.com/leouofa/booksmith)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby%20Gem-CC342D?style=flat-square&logo=ruby&logoColor=white)
+  ![Amazon KDP](https://img.shields.io/badge/-Amazon%20KDP-FF9900?style=flat-square&logo=amazon&logoColor=white)  
+  *Production-grade publishing engine and CLI compiling Markdown chapters into store-ready Amazon KDP Paperbacks, Hardcovers, and Kindle EPUBs.*
 
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
