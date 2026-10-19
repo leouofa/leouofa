@@ -98,17 +98,17 @@
 
 ### 📖 Publishing
 
-**[Booksmith](https://github.com/leouofa/booksmith)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby%20Gem-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![Amazon KDP](https://img.shields.io/badge/-Amazon%20KDP-FF9900?style=flat-square&logo=amazon&logoColor=white)  
-  *Production-grade publishing engine and CLI compiling Markdown chapters into store-ready Amazon KDP Paperbacks, Hardcovers, and Kindle EPUBs.*
-
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
   *AI-powered authoring and production assistant designed to accelerate writing, editing, and book layout workflows.*
+
+**[Booksmith](https://github.com/leouofa/booksmith)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby%20Gem-CC342D?style=flat-square&logo=ruby&logoColor=white)
+  ![Amazon KDP](https://img.shields.io/badge/-Amazon%20KDP-FF9900?style=flat-square&logo=amazon&logoColor=white)  
+  *Production-grade publishing engine and CLI compiling Markdown chapters into store-ready Amazon KDP Paperbacks, Hardcovers, and Kindle EPUBs.*
   
 **[Evox](https://github.com/leouofa/evox)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
@@ -116,7 +116,7 @@
 
 ---
 
-### 📖 Music & Audio-Visual Tools
+### 🎵 Music & Audio-Visual Tools
 
 **[Gridbeat](https://github.com/leouofa/gridbeat)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
