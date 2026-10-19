@@ -66,7 +66,25 @@
 
 ---
 
-### 🎮 Creative, Publishing, Music & Audio-Visual Tools
+### 🛠️ Frameworks, Systems & Developer Tooling
+**[Rapid UI](https://github.com/leouofa/rapid-ui)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
+  *Component-driven UI development framework for Ruby on Rails, building modular, testable interfaces on top of ViewComponent.*
+
+**[Simple Backup](https://github.com/macron1-automations/simple-backup)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+  *A reliable, lightweight backup automation utility built to keep critical personal data safe and effortlessly archived.*
+
+**[Super Dotfiles](https://github.com/ninja-in-brazil/super-dotfiles)**  
+  ![Shell](https://img.shields.io/badge/-Zsh%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+  ![Lua](https://img.shields.io/badge/-Lua%20(Neovim)-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+  *An ergonomic macOS terminal and development environment that treats the CLI as an instrument, tuned for maximum efficiency and flow.*
+
+---
+
+### 🎮 Games
+
 **[Ninja Survivor](https://github.com/leouofa/ninja-survivor)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
@@ -76,16 +94,9 @@
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)  
   *A Godot 4 powered 2D side-scroller game featuring responsive movement mechanics, platforming physics, and clean scene architecture.*
 
-**[Gridbeat](https://github.com/leouofa/gridbeat)**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Web](https://img.shields.io/badge/-Web%20Audio%20%2F%20MIDI-FF6C37?style=flat-square)  
-  *Open-source interactive chord & scale visualizer supporting piano, guitar, ukulele, and Novation Launchpad grid controllers.*
+---
 
-**[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-  *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
+### 📖 Publishing
 
 **[Booksmith](https://github.com/leouofa/booksmith)**  
   ![Ruby](https://img.shields.io/badge/-Ruby%20Gem-CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -105,7 +116,22 @@
 
 ---
 
-### ⚡ Productivity, Habits & Web Frameworks
+### 📖 Music & Audio-Visual Tools
+
+**[Gridbeat](https://github.com/leouofa/gridbeat)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Web](https://img.shields.io/badge/-Web%20Audio%20%2F%20MIDI-FF6C37?style=flat-square)  
+  *Open-source interactive chord & scale visualizer supporting piano, guitar, ukulele, and Novation Launchpad grid controllers.*
+
+**[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+  *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
+
+---
+
+### ⚡ Productivity & Habits
 **[Ninja Coach](https://github.com/ninja-in-brazil/ninja-coach)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)  
@@ -119,20 +145,3 @@
 **[Language Accelerator](https://github.com/leouofa/language-accelerator)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *Automated vocabulary extraction and frequency-ranking pipeline in Ruby to accelerate foreign language learning from PDF literature.*
-
----
-
-### 🛠️ Frameworks, Systems & Developer Tooling
-**[Rapid UI](https://github.com/leouofa/rapid-ui)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
-  *Component-driven UI development framework for Ruby on Rails, building modular, testable interfaces on top of ViewComponent.*
-
-**[Super Dotfiles](https://github.com/ninja-in-brazil/super-dotfiles)**  
-  ![Shell](https://img.shields.io/badge/-Zsh%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-  ![Lua](https://img.shields.io/badge/-Lua%20(Neovim)-2C2D72?style=flat-square&logo=lua&logoColor=white)  
-  *An ergonomic macOS terminal and development environment that treats the CLI as an instrument, tuned for maximum efficiency and flow.*
-
-**[Simple Backup](https://github.com/macron1-automations/simple-backup)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-  *A reliable, lightweight backup automation utility built to keep critical personal data safe and effortlessly archived.*
