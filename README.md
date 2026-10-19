@@ -125,8 +125,15 @@
   ![Web](https://img.shields.io/badge/-Web%20Audio%20%2F%20MIDI-FF6C37?style=flat-square)  
   *Open-source interactive chord & scale visualizer supporting piano, guitar, ukulele, and Novation Launchpad grid controllers.*
 
+**[Scratch Tools](https://github.com/leouofa/scratch-tools)**  
+  ![Max for Live](https://img.shields.io/badge/-Max%20for%20Live-111111?style=flat-square)
+  ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?style=flat-square)
+  ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)  
+  *A lightweight, low-latency 1-shot scratch instrument and custom DSP sampler built in Max for Live for expressive finger-drumming.*
+
 **[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)  
   *A lightweight, C-based audio engine and tone generator designed for low-latency sound synthesis and processing.*
 
 ---
