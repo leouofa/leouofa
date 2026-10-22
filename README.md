@@ -95,6 +95,11 @@
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
   *High-octane, audio-reactive 3D endless and rhythm runner featuring dynamic speed scaling, procedural hazards, and custom visual shaders.*
 
+**[Timelapse](https://github.com/leouofa/timelapse)**  
+  ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+  ![Dialogic](https://img.shields.io/badge/-Dialogic%202-8A2BE2?style=flat-square)  
+  *A narrative-driven visual novel engineered in Godot 4 and Dialogic 2, showcasing decoupled signal architecture, autosave state persistence, and dynamic dialogue trees.*
+
 **[The Play Game](https://github.com/leouofa/the-play-game)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)  
   *A Godot 4 powered 2D side-scroller game featuring responsive movement mechanics, platforming physics, and clean scene architecture.*
