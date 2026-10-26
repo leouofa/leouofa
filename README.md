@@ -84,6 +84,10 @@
 ---
 
 ### 🎮 Games
+**[ISV BRO](https://github.com/leouofa/isv-bro)**  
+  ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+  ![Educational](https://img.shields.io/badge/-EdTech%20%2F%20STEM-2ea44f?style=flat-square)  
+  *A radical 90s science rail shooter built in Godot 4 that unlocks scientific literacy and STEM terminology through Latin and Greek root etymology.*
 
 **[Ninja Survivor](https://github.com/leouofa/ninja-survivor)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
