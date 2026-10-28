@@ -111,6 +111,10 @@
 ---
 
 ### 📖 Publishing
+**[MacronCMS](https://github.com/macron1-automations/macron-cms)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby%20on%20Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Rails Engine](https://img.shields.io/badge/-Rails%20Engine-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+  *A flexible, developer-friendly CMS engine for Rails 8 featuring dynamic content blocks, declarative schemas, drag-and-drop reordering, and ViewComponent widgets.*
 
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
