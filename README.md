@@ -66,23 +66,6 @@
 
 ---
 
-### 🛠️ Frameworks, Systems & Developer Tooling
-**[Rapid UI](https://github.com/leouofa/rapid-ui)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
-  *Component-driven UI development framework for Ruby on Rails, building modular, testable interfaces on top of ViewComponent.*
-
-**[Simple Backup](https://github.com/macron1-automations/simple-backup)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-  *A reliable, lightweight backup automation utility built to keep critical personal data safe and effortlessly archived.*
-
-**[Super Dotfiles](https://github.com/ninja-in-brazil/super-dotfiles)**  
-  ![Shell](https://img.shields.io/badge/-Zsh%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-  ![Lua](https://img.shields.io/badge/-Lua%20(Neovim)-2C2D72?style=flat-square&logo=lua&logoColor=white)  
-  *An ergonomic macOS terminal and development environment that treats the CLI as an instrument, tuned for maximum efficiency and flow.*
-
----
-
 ### 🎮 Games
 **[ISV BRO](https://github.com/leouofa/isv-bro)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
@@ -112,7 +95,7 @@
 
 ### 📖 Publishing
 **[MacronCMS](https://github.com/macron1-automations/macron-cms)**  
-  ![Ruby](https://img.shields.io/badge/-Ruby%20on%20Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![Rails Engine](https://img.shields.io/badge/-Rails%20Engine-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *A flexible, developer-friendly CMS engine for Rails 8 featuring dynamic content blocks, declarative schemas, drag-and-drop reordering, and ViewComponent widgets.*
 
@@ -170,3 +153,21 @@
 **[Language Accelerator](https://github.com/leouofa/language-accelerator)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *Automated vocabulary extraction and frequency-ranking pipeline in Ruby to accelerate foreign language learning from PDF literature.*
+  
+---
+
+### 🛠️ Gems, Systems & Developer Tooling
+**[Rapid UI](https://github.com/leouofa/rapid-ui)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+  ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
+  *Component-driven UI development framework for Ruby on Rails, building modular, testable interfaces on top of ViewComponent.*
+
+**[Simple Backup](https://github.com/macron1-automations/simple-backup)**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+  *A reliable, lightweight backup automation utility built to keep critical personal data safe and effortlessly archived.*
+
+**[Super Dotfiles](https://github.com/ninja-in-brazil/super-dotfiles)**  
+  ![Shell](https://img.shields.io/badge/-Zsh%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+  ![Lua](https://img.shields.io/badge/-Lua%20(Neovim)-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+  *An ergonomic macOS terminal and development environment that treats the CLI as an instrument, tuned for maximum efficiency and flow.*
+
