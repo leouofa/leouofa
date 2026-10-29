@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Mobile](https://img.shields.io/badge/-React%20Native%20%2F%20Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -96,7 +97,9 @@
 ### 📖 Publishing
 **[MacronCMS](https://github.com/macron1-automations/macron-cms)**  
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
-  ![Rails Engine](https://img.shields.io/badge/-Rails%20Engine-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+  ![Rails Engine](https://img.shields.io/badge/-Rails%20Engine-CC342D?style=flat-square&logo=ruby&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)  
   *A flexible, developer-friendly CMS engine for Rails 8 featuring dynamic content blocks, declarative schemas, drag-and-drop reordering, and ViewComponent widgets.*
 
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
