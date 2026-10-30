@@ -21,6 +21,7 @@
 ![Mobile](https://img.shields.io/badge/-React%20Native%20%2F%20Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
@@ -101,6 +102,11 @@
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)  
   *A flexible, developer-friendly CMS engine for Rails 8 featuring dynamic content blocks, declarative schemas, drag-and-drop reordering, and ViewComponent widgets.*
+
+**[MacronCMS MCP](https://github.com/macron1-automations/macron-cms-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *Official Model Context Protocol (MCP) server for MacronCMS, empowering AI assistants to inspect schemas, author articles, and surgically manipulate content blocks.*
 
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
