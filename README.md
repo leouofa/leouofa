@@ -48,11 +48,21 @@
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)  
   *A blazing-fast, keyboard-driven terminal user interface (TUI) for navigating and triaging the MacronX OSINT pipeline.*
 
+**[MacronX MCP](https://github.com/macron1-automations/macronx-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for MacronX, connecting AI agents to ingest raw intelligence signals, triage inboxes, and synthesize intelligence briefs.*
+
 **[Local Wikidata](https://github.com/macron1-automations/local-wikidata)**  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![SPARQL](https://img.shields.io/badge/-QLever%20%2F%20SPARQL-5B82A6?style=flat-square)  
   *Local, privacy-first read-only English Wikidata Truthy SPARQL endpoint powered by QLever for offline, verified knowledge grounding.*
+
+**[Wikidata MCP](https://github.com/macron1-automations/wikidata-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for local Wikidata Truthy knowledge graphs, powering deterministic entity resolution and OSINT brief grounding.*
 
 **[VectorQA](https://github.com/leouofa/vector-qa)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
