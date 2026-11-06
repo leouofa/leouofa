@@ -106,7 +106,7 @@
 **[MacronCMS MCP](https://github.com/macron1-automations/macron-cms-mcp)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
-  *Official Model Context Protocol (MCP) server for MacronCMS, empowering AI assistants to inspect schemas, author articles, and surgically manipulate content blocks.*
+  *MCP Server for MacronCMS, empowering AI assistants to inspect schemas, author articles, and surgically manipulate content blocks.*
 
 **[Book Rhino](https://github.com/leouofa/book-rhino)**    
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -118,7 +118,7 @@
 **[Book Rhino MCP](https://github.com/leouofa/book-rhino-mcp)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
-  *Official Model Context Protocol (MCP) server for Book Rhino, enabling AI assistants to architect novels, build worlds, iterate plot scenes, and export manuscripts.*
+  *MCP Server for Book Rhino, enabling AI assistants to architect novels, build worlds, iterate plot scenes, and export manuscripts.*
 
 **[Booksmith](https://github.com/leouofa/booksmith)**  
   ![Ruby](https://img.shields.io/badge/-Ruby%20Gem-CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -128,6 +128,11 @@
 **[Evox](https://github.com/leouofa/evox)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
   *A PDF songbook generator built to streamline lyric sheet and chord chart compilation into clean, printable songbooks.*
+
+**[Evox MCP](https://github.com/leouofa/evox-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Evox, exposing a structured AST interface for AI agents to author chord sheets and compile songbook PDFs.*
 
 ---
 
