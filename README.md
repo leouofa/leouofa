@@ -115,6 +115,11 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
   *AI-powered authoring and production assistant designed to accelerate writing, editing, and book layout workflows.*
 
+**[Book Rhino MCP](https://github.com/leouofa/book-rhino-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *Official Model Context Protocol (MCP) server for Book Rhino, enabling AI assistants to architect novels, build worlds, iterate plot scenes, and export manuscripts.*
+
 **[Booksmith](https://github.com/leouofa/booksmith)**  
   ![Ruby](https://img.shields.io/badge/-Ruby%20Gem-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Amazon KDP](https://img.shields.io/badge/-Amazon%20KDP-FF9900?style=flat-square&logo=amazon&logoColor=white)  
