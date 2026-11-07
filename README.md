@@ -161,6 +161,12 @@
   ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)  
   *A lightweight, low-latency 1-shot scratch instrument and custom DSP sampler built in Max for Live for expressive finger-drumming.*
 
+**[Loop Bro](https://github.com/leouofa/loop-bro)**  
+  ![C++](https://img.shields.io/badge/-C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![JUCE](https://img.shields.io/badge/-JUCE%208-black?style=flat-square)
+  ![Audio Plugin](https://img.shields.io/badge/-VST3%20%2F%20AU-FF5500?style=flat-square)  
+  *Intelligent, auto-triggered guitar looper and phrase capture audio plugin (VST3, AU, Standalone) for hands-free riff recording.*
+
 **[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
   ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)  
