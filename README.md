@@ -164,8 +164,10 @@
 **[Loop Bro](https://github.com/leouofa/loop-bro)**  
   ![C++](https://img.shields.io/badge/-C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![JUCE](https://img.shields.io/badge/-JUCE%208-black?style=flat-square)
-  ![Audio Plugin](https://img.shields.io/badge/-VST3%20%2F%20AU-FF5500?style=flat-square)  
-  *Intelligent, auto-triggered guitar looper and phrase capture audio plugin (VST3, AU, Standalone) for hands-free riff recording.*
+  ![Audio Plugin](https://img.shields.io/badge/-VST3%20%2F%20AU-FF5500?style=flat-square)
+  ![Ableton Push 3](https://img.shields.io/badge/-Push%203%20%2B%20M4L-000000?style=flat-square&logo=ableton&logoColor=white)  
+  *An intelligent, auto-triggered looper and phrase capture plugin (VST3, AU, Standalone). Features Ableton Push 3 hardware integration and includes a companion Max for Live device.*
+  
 
 **[Ninja Tone](https://github.com/leouofa/ninja-tone)**  
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
