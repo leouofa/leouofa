@@ -204,12 +204,12 @@
   
 ---
 
-### 🪏 Theology, Sociology & Archeology
+### 🔭 Theology, Sociology, Archeology & Astrophysics
 **[Syncretica](https://github.com/leouofa/syncretica)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![AI Synthesis](https://img.shields.io/badge/-AI%20Synthesis-9333EA?style=flat-square)  
-  *A computational research platform for comparative mythology, historical theology, and cognitive archaeology, mapping cross-cultural archetypes using pgvector semantic embeddings and multi-stage AI synthesis pipelines.*
+  *A computational research platform for comparative mythology, historical theology, and cognitive archaeology, mapping cross-cultural archetypes using semantic embeddings and multi-stage AI synthesis pipelines.*
   
 **[Syncretica MCP](https://github.com/leouofa/syncretica-mcp)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -220,12 +220,18 @@
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![AI Synthesis](https://img.shields.io/badge/-AI%20Synthesis-9333EA?style=flat-square)  
-  *Strategic research platform for comparative geopolitics, statecraft, and urban power networks, mapping institutional archetypes using pgvector semantic embeddings and multi-stage AI synthesis pipelines.*
+  *Strategic research platform for comparative geopolitics, statecraft, and urban power networks, mapping institutional archetypes using semantic embeddings and multi-stage AI synthesis pipelines.*
 
 **[Statesman MCP](https://github.com/leouofa/statesman-mcp)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Statesman, giving AI agents 51 tools to explore comparative geopolitics and deep synthesis monographs.*
+
+**[Astronomer](https://github.com/leouofa/astronomer)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![AI Synthesis](https://img.shields.io/badge/-AI%20Synthesis-9333EA?style=flat-square)  
+  *A computational laboratory or comparative astrophysics, stellar systems, and planetary manifolds, mapping cosmic archetypes using semantic embeddings and multi-stage AI synthesis pipelines.*
   
 ---
 
