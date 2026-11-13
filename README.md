@@ -214,13 +214,18 @@
 **[Syncretica MCP](https://github.com/leouofa/syncretica-mcp)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
-  *MCP server for Syncretica, allowing AI agents to navigate cross-cultural mythological datasets, pgvector manifolds, and multi-stage synthesis reports.*
+  *MCP Server for Syncretica, allowing AI agents to navigate cross-cultural mythological datasets, pgvector manifolds, and multi-stage synthesis reports.*
 
 **[Statesman](https://github.com/leouofa/statesman)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![AI Synthesis](https://img.shields.io/badge/-AI%20Synthesis-9333EA?style=flat-square)  
   *Strategic research platform for comparative geopolitics, statecraft, and urban power networks, mapping institutional archetypes using pgvector semantic embeddings and multi-stage AI synthesis pipelines.*
+
+**[Statesman MCP](https://github.com/leouofa/statesman-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Statesman, giving AI agents 51 tools to explore comparative geopolitics and deep synthesis monographs.*
   
 ---
 
