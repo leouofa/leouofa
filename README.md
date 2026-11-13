@@ -150,6 +150,11 @@
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Evox, exposing a structured AST interface for AI agents to author chord sheets and compile songbook PDFs.*
 
+**[Evox Syntax](https://github.com/leouofa/evox-syntax)**  
+  ![Neovim](https://img.shields.io/badge/-Neovim%20Plugin-57A143?style=flat-square&logo=neovim&logoColor=white)
+  ![Lua](https://img.shields.io/badge/-Lua%20%2F%20VimScript-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+  *Neovim syntax highlighting plugin for `.evox` songbook files, supporting YAML frontmatter, chord alignment, and lyric styling.*
+
 ---
 
 ### 🎵 Music & Audio-Visual Tools
