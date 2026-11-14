@@ -250,6 +250,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP server for Chemist, providing AI agents with 51 tools to analyze molecular manifolds, functional groups, and synthesis monographs.*
+
+**[Physicist](https://github.com/leouofa/physicist)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![AI Synthesis](https://img.shields.io/badge/-AI%20Synthesis-9333EA?style=flat-square)  
+  *A cresearch platform for comparative particle physics, subatomic particles, and quantum state manifolds, mapping symmetry archetypes using semantic embeddings and multi-stage AI synthesis pipelines.*
   
 ---
 
@@ -279,6 +285,11 @@
   ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
   *A local-first memory management studio and developer workbench for persistent AI context.*
+
+**[Memorable MCP](https://github.com/leouofa/memorable-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Memorable, enabling AI agents to query, recall, and vectorize persistent context and memories.*
 
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
