@@ -241,6 +241,11 @@
 ---
 
 ### 🛠️ Gems, Systems & Developer Tooling
+**[Devbook](https://github.com/leouofa/devbook)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
+  *A local-first prompt engineering studio and distraction-free developer workbench for authoring, testing, and managing complex AI prompts and templates.*
+
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
