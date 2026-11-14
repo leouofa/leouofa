@@ -12,6 +12,7 @@
 ### Tech Stack & Toolbox
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)
 ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=rust&logoColor=white)
@@ -24,6 +25,7 @@
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -271,6 +273,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for NoteKing, enabling AI agents to search, author, append, and organize developer notes and ADRs.*
+
+**[Memorable](https://github.com/leouofa/memorable)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
+  *A local-first memory management studio and developer workbench for persistent AI context.*
 
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
