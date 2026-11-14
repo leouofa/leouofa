@@ -240,7 +240,7 @@
   
 ---
 
-### 🛠️ Gems, Systems & Developer Tooling
+### 🛠️ System, Gems & Developer Tooling
 **[Devbook](https://github.com/leouofa/devbook)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
@@ -250,6 +250,11 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Devbook, enabling AI agents to query, author, manage, and execute dynamic prompt templates.*
+
+**[NoteKing](https://github.com/leouofa/noteking)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
+  *A local-first Markdown note-taking studio for organizing notes, technical designs and architecture decisions (ADRs).*
 
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
