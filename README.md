@@ -246,6 +246,11 @@
   ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
   *A local-first prompt engineering studio and distraction-free developer workbench for authoring, testing, and managing complex AI prompts and templates.*
 
+**[Devbook MCP](https://github.com/leouofa/devbook-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Devbook, enabling AI agents to query, author, manage, and execute dynamic prompt templates.*
+
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
