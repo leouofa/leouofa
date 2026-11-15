@@ -307,6 +307,11 @@
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Memorable, enabling AI agents to query, recall, and vectorize persistent context and memories.*
 
+**[Doer](https://github.com/leouofa/doer)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
+  *A local-first Markdown todoing and checklist workbench for developers, featuring interactive GFM task checkboxes, project hierarchies, and instant clipboard sync.*
+
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)  
