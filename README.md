@@ -240,6 +240,17 @@
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Astronomer, giving AI agents 51 tools to explore comparative astrophysics and deep synthesis monographs.*
 
+**[Biologist](https://github.com/leouofa/biologist)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![AI Synthesis](https://img.shields.io/badge/-AI%20Synthesis-9333EA?style=flat-square)  
+  *A computational research platform for comparative biology, ecology, and organismal systems, mapping functional archetypes across biomes and species using semantic embeddings and multi-stage AI synthesis pipelines.*
+
+**[Biologist MCP](https://github.com/leouofa/biologist-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Biologist, providing AI agents with 51 tools to explore ecological manifolds, species taxonomy, and synthesis monographs.*
+
 **[Chemist](https://github.com/leouofa/chemist)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![pgvector](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
