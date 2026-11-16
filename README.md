@@ -205,6 +205,21 @@
   ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
   *A blazing-fast, keyboard-driven terminal user interface (TUI) for Doer built with Rust and Ratatui, featuring interactive task toggling and 3-pane navigation.*
 
+**[NoteKing](https://github.com/leouofa/noteking)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
+  *A local-first Markdown note-taking studio for organizing notes, technical designs and architecture decisions (ADRs).*
+
+**[NoteKing MCP](https://github.com/leouofa/noteking-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for NoteKing, enabling AI agents to search, author, append, and organize developer notes and ADRs.*
+
+**[NoteKing TUI](https://github.com/leouofa/noteking-tui)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
+  *A blazing-fast, keyboard-driven terminal user interface (TUI) for NoteKing built with Rust and Ratatui.*
+
 **[Ninja Coach](https://github.com/ninja-in-brazil/ninja-coach)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)  
@@ -300,16 +315,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Devbook, enabling AI agents to query, author, manage, and execute dynamic prompt templates.*
-
-**[NoteKing](https://github.com/leouofa/noteking)**  
-  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
-  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
-  *A local-first Markdown note-taking studio for organizing notes, technical designs and architecture decisions (ADRs).*
-
-**[Noteking MCP](https://github.com/leouofa/noteking-mcp)**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
-  *MCP Server for NoteKing, enabling AI agents to search, author, append, and organize developer notes and ADRs.*
 
 **[Memorable](https://github.com/leouofa/memorable)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
