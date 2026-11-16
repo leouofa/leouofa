@@ -190,6 +190,21 @@
 ---
 
 ### ⚡ Productivity & Habits
+**[Doer](https://github.com/leouofa/doer)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
+  *A local-first Markdown todoing and checklist workbench for developers, featuring interactive GFM task checkboxes, project hierarchies, and instant clipboard sync.*
+
+**[Doer MCP](https://github.com/leouofa/doer-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Doer, enabling AI agents to manage projects, author todo lists, and programmatically toggle checklist items.*
+
+**[Doer TUI](https://github.com/leouofa/doer-tui)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
+  *A blazing-fast, keyboard-driven terminal user interface (TUI) for Doer built with Rust and Ratatui, featuring interactive task toggling and 3-pane navigation.*
+
 **[Ninja Coach](https://github.com/ninja-in-brazil/ninja-coach)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)  
@@ -306,16 +321,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Memorable, enabling AI agents to query, recall, and vectorize persistent context and memories.*
-
-**[Doer](https://github.com/leouofa/doer)**  
-  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
-  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
-  *A local-first Markdown todoing and checklist workbench for developers, featuring interactive GFM task checkboxes, project hierarchies, and instant clipboard sync.*
-
-**[Doer MCP](https://github.com/leouofa/doer-mcp)**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
-  *MCP Server for Doer, enabling AI agents to manage projects, author todo lists, and programmatically toggle checklist items.*
 
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
