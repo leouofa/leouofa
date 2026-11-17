@@ -306,6 +306,12 @@
 ---
 
 ### 🛠️ System, Gems & Developer Tooling
+**[Octopus](https://github.com/leouofa/octopus)**  
+  ![Shell](https://img.shields.io/badge/-Bash%20%2F%20CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/-Markdown%20Runbooks-000000?style=flat-square&logo=markdown&logoColor=white)
+  ![MCP Orchestration](https://img.shields.io/badge/-MCP%20Orchestration-blueviolet?style=flat-square)  
+  *A lightweight, zero-bloat command protocol and isolated workspace harness for AI agents, dynamically orchestrating companion MCP tools via on-demand Markdown runbooks.*
+
 **[Devbook](https://github.com/leouofa/devbook)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
