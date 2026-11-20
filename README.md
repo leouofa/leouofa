@@ -340,6 +340,11 @@
   ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
   *A blazing-fast, keyboard-driven workspace manager and 3-pane Ratatui TUI for AI agent harnesses and rapid developer task isolation.*
 
+**[Octo-Com](https://github.com/octopus-harness/octo-com)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
+  *A zero-bloat prompt and runbook engine in Rust featuring sub-millisecond CLI retrieval for AI agents and an interactive Ratatui TUI studio for engineers.*
+
 **[Devbook](https://github.com/leouofa/devbook)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
