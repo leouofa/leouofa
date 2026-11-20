@@ -9,6 +9,15 @@
 
 ---
 
+### Organizations
+- **[Ninja in Brazil](https://github.com/ninja-in-brazil)** — Productivity, habits, and developer environment tooling (`ninja-coach`, `ninja-track`, `super-dotfiles`).
+- **[Macron1 Automations](https://github.com/macron1-automations)** — OSINT pipelines, knowledge grounding, and Rails CMS tooling (`macronx`, `macron-cms`, `local-wikidata`).
+- **[Octopus Harness](https://github.com/octopus-harness)** — AI agent workspace harnesses and Rust TUI runbook engines (`octo-work`, `octo-com`).
+- **[Project Cinderblock](https://github.com/project-cinderblock)** — Locally hosted Ruby on Rails computational laboratories paired with MCP servers (`syncretica`, `statesman`, `astronomer`, `biologist`, `chemist`, `physicist`).
+- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`).
+
+---
+
 ### Tech Stack & Toolbox
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
