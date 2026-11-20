@@ -335,6 +335,11 @@
   ![MCP Orchestration](https://img.shields.io/badge/-MCP%20Orchestration-blueviolet?style=flat-square)  
   *A lightweight, zero-bloat command protocol and isolated workspace harness for AI agents, dynamically orchestrating companion MCP tools via on-demand Markdown runbooks.*
 
+**[Octo-Work](https://github.com/octopus-harness/octo-work)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
+  *A blazing-fast, keyboard-driven workspace manager and 3-pane Ratatui TUI for AI agent harnesses and rapid developer task isolation.*
+
 **[Devbook](https://github.com/leouofa/devbook)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)  
