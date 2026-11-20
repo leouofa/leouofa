@@ -232,6 +232,17 @@
   ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
   *A blazing-fast, keyboard-driven terminal user interface (TUI) for NoteKing built with Rust and Ratatui.*
 
+**[Ninja CRM](https://github.com/leouofa/ninja-crm)**  
+  ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire%20%2F%20Tailwind-F3722C?style=flat-square)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+  *An MCP-first customer relationship management engine built with Rails 8, featuring a dual-persona architecture for autonomous AI agents and modern human teams.*
+
+**[Ninja CRM MCP](https://github.com/leouofa/ninja-crm-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Ninja CRM, equipping autonomous AI agents with full-cycle sales execution, lead qualification, and outreach drafting capabilities.*
+
 **[Ninja Coach](https://github.com/ninja-in-brazil/ninja-coach)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)  
