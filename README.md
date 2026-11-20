@@ -27,6 +27,7 @@
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash / Zsh](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -160,6 +161,10 @@
 ---
 
 ### 🎵 Music & Audio-Visual Tools
+**[Ninja-Viz](https://github.com/leouofa/ninja-viz)**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Blender](https://img.shields.io/badge/-Blender%205.x%20(bpy)-EA7600?style=flat-square&logo=blender&logoColor=white)  
+  *A 100% code-driven, audio-reactive 3D cel-shaded music video synthesizer and procedural motion graphics pipeline built in Blender 5.x and Python.*
 
 **[Gridbeat](https://github.com/leouofa/gridbeat)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
