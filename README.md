@@ -161,6 +161,13 @@
 ---
 
 ### 🎵 Music & Audio-Visual Tools
+**[Ninja-Shader](https://github.com/leouofa/ninja-shader)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![wgpu](https://img.shields.io/badge/-wgpu%20(WebGPU)-blue?style=flat-square&logo=webgpu&logoColor=white)
+  ![egui](https://img.shields.io/badge/-egui-8A2BE2?style=flat-square)
+  ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  
+  *A GPU-accelerated video shader processing pipeline and live creative desktop studio in Rust for multi-pass fragment shader chaining and hot-reloading.*
+
 **[Ninja-Viz](https://github.com/leouofa/ninja-viz)**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Blender](https://img.shields.io/badge/-Blender%205.x%20(bpy)-EA7600?style=flat-square&logo=blender&logoColor=white)  
