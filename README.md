@@ -14,7 +14,7 @@
 - **[Macron1 Automations](https://github.com/macron1-automations)** — OSINT pipelines, knowledge grounding, and Rails CMS tooling (`macronx`, `macron-cms`, `local-wikidata`).
 - **[Octopus Harness](https://github.com/octopus-harness)** — AI agent workspace harnesses and Rust TUI runbook engines (`octo-work`, `octo-com`).
 - **[Project Cinderblock](https://github.com/project-cinderblock)** — Locally hosted Ruby on Rails computational laboratories paired with MCP servers (`syncretica`, `statesman`, `astronomer`, `biologist`, `chemist`, `physicist`).
-- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`).
+- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`, `video-solver`).
 
 ---
 
@@ -182,6 +182,13 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Blender](https://img.shields.io/badge/-Blender%205.x%20(bpy)-EA7600?style=flat-square&logo=blender&logoColor=white)  
   *A 100% code-driven, audio-reactive 3D cel-shaded music video synthesizer and procedural motion graphics pipeline built in Blender 5.x and Python.*
+
+**[Video-Solver](https://github.com/loud-thunder/video-solver)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![egui](https://img.shields.io/badge/-egui-8A2BE2?style=flat-square)
+  ![Rayon](https://img.shields.io/badge/-Rayon-blue?style=flat-square)
+  ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  
+  *A high-performance creative coding studio and procedural video synthesis engine in Rust, animating 22 mathematical and geometric puzzle simulations in real time or exporting cinematic media via pipe IPC streaming.*
 
 **[Gridbeat](https://github.com/leouofa/gridbeat)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
