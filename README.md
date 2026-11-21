@@ -14,7 +14,7 @@
 - **[Macron1 Automations](https://github.com/macron1-automations)** — OSINT pipelines, knowledge grounding, and Rails CMS tooling (`macronx`, `macron-cms`, `local-wikidata`).
 - **[Octopus Harness](https://github.com/octopus-harness)** — AI agent workspace harnesses and Rust TUI runbook engines (`octo-work`, `octo-com`).
 - **[Project Cinderblock](https://github.com/project-cinderblock)** — Locally hosted Ruby on Rails computational laboratories paired with MCP servers (`syncretica`, `statesman`, `astronomer`, `biologist`, `chemist`, `physicist`).
-- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`, `video-solver`).
+- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`, `video-solver`, `neo-art`).
 - **[Project Tidalwave](https://github.com/project-tidalwave)** — Independent video games, arcade fighters, and interactive media engineered in Godot 4 (`side-beat`, `isv-bro`, `ninja-survivor`, `ninja-run`, `timelapse`, `the-play-game`).
 
 ---
@@ -190,6 +190,13 @@
   ![Rayon](https://img.shields.io/badge/-Rayon-blue?style=flat-square)
   ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  
   *A high-performance creative coding studio and procedural video synthesis engine in Rust, animating 22 mathematical and geometric puzzle simulations in real time or exporting cinematic media via pipe IPC streaming.*
+
+**[Neo-Art](https://github.com/loud-thunder/neo-art)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![egui](https://img.shields.io/badge/-egui-8A2BE2?style=flat-square)
+  ![tiny-skia](https://img.shields.io/badge/-tiny--skia-5C8D47?style=flat-square)
+  ![Rayon](https://img.shields.io/badge/-Rayon-blue?style=flat-square)  
+  *A 7-layer procedural abstract background and wallpaper studio in Rust, uniting computational geometry, OKLCH perceptual color palettes, and co-occurrence compatibility matrices for deterministic visual synthesis.*
 
 **[Gridbeat](https://github.com/leouofa/gridbeat)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
