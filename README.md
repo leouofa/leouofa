@@ -15,6 +15,7 @@
 - **[Octopus Harness](https://github.com/octopus-harness)** — AI agent workspace harnesses and Rust TUI runbook engines (`octo-work`, `octo-com`).
 - **[Project Cinderblock](https://github.com/project-cinderblock)** — Locally hosted Ruby on Rails computational laboratories paired with MCP servers (`syncretica`, `statesman`, `astronomer`, `biologist`, `chemist`, `physicist`).
 - **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`, `video-solver`).
+- **[Project Tidalwave](https://github.com/project-tidalwave)** — Independent video games, arcade fighters, and interactive media engineered in Godot 4 (`side-beat`, `isv-bro`, `ninja-survivor`, `ninja-run`, `timelapse`, `the-play-game`).
 
 ---
 
@@ -92,33 +93,33 @@
 ---
 
 ### 🎮 Games
-**[Side Beat](https://github.com/leouofa/side-beat)**  
+**[Side Beat](https://github.com/project-tidalwave/side-beat)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Jolt](https://img.shields.io/badge/-Jolt%203D%20Physics-FF6B6B?style=flat-square)
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
   *A fast-paced 2.5D belt-scroller arcade tag-morph fighter built in Godot 4 and Jolt 3D featuring instant pantheon morphing, fighting-game juggles, and custom shaders.*
 
-**[ISV BRO](https://github.com/leouofa/isv-bro)**  
+**[ISV BRO](https://github.com/project-tidalwave/isv-bro)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Educational](https://img.shields.io/badge/-EdTech%20%2F%20STEM-2ea44f?style=flat-square)  
   *A radical 90s science rail shooter built in Godot 4 that unlocks scientific literacy and STEM terminology through Latin and Greek root etymology.*
 
-**[Ninja Survivor](https://github.com/leouofa/ninja-survivor)**  
+**[Ninja Survivor](https://github.com/project-tidalwave/ninja-survivor)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
   *A fast-paced 3D synthwave roguelite survivor game featuring neon visuals, responsive combat mechanics, and custom shaders.*
 
-**[Ninja Run](https://github.com/leouofa/ninja-run)**  
+**[Ninja Run](https://github.com/project-tidalwave/ninja-run)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)  
   *High-octane, audio-reactive 3D endless and rhythm runner featuring dynamic speed scaling, procedural hazards, and custom visual shaders.*
 
-**[Timelapse](https://github.com/leouofa/timelapse)**  
+**[Timelapse](https://github.com/project-tidalwave/timelapse)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Dialogic](https://img.shields.io/badge/-Dialogic%202-8A2BE2?style=flat-square)  
   *A narrative-driven visual novel engineered in Godot 4 and Dialogic 2, showcasing decoupled signal architecture, autosave state persistence, and dynamic dialogue trees.*
 
-**[The Play Game](https://github.com/leouofa/the-play-game)**  
+**[The Play Game](https://github.com/project-tidalwave/the-play-game)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)  
   *A Godot 4 powered 2D side-scroller game featuring responsive movement mechanics, platforming physics, and clean scene architecture.*
 
