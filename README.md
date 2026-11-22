@@ -10,12 +10,12 @@
 ---
 
 ### Organizations
-- **[Ninja in Brazil](https://github.com/ninja-in-brazil)** — Productivity, habits, and developer environment tooling (`ninja-coach`, `ninja-track`, `super-dotfiles`).
-- **[Macron1 Automations](https://github.com/macron1-automations)** — OSINT pipelines, knowledge grounding, and Rails CMS tooling (`macronx`, `macron-cms`, `local-wikidata`).
-- **[Octopus Harness](https://github.com/octopus-harness)** — AI agent workspace harnesses and Rust TUI runbook engines (`octo-work`, `octo-com`).
-- **[Project Cinderblock](https://github.com/project-cinderblock)** — Locally hosted Ruby on Rails computational laboratories paired with MCP servers (`syncretica`, `statesman`, `astronomer`, `biologist`, `chemist`, `physicist`).
-- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code (`ninja-shader`, `ninja-viz`, `video-solver`, `neo-art`).
-- **[Project Tidalwave](https://github.com/project-tidalwave)** — Independent video games, arcade fighters, and interactive media engineered in Godot 4 (`side-beat`, `isv-bro`, `ninja-survivor`, `ninja-run`, `timelapse`, `the-play-game`).
+- **[Ninja in Brazil](https://github.com/ninja-in-brazil)** — Productivity, habits, and developer environment tooling.
+- **[Macron1 Automations](https://github.com/macron1-automations)** — OSINT pipelines, knowledge grounding, and Rails CMS tooling.
+- **[Octopus Harness](https://github.com/octopus-harness)** — AI agent workspace harnesses and Rust TUI runbook engines.
+- **[Project Cinderblock](https://github.com/project-cinderblock)** — Locally hosted Ruby on Rails computational laboratories paired with MCP servers.
+- **[Loud Thunder](https://github.com/loud-thunder)** — Programmable, LLM-driven generative art built on real-time GPU code.
+- **[Project Tidalwave](https://github.com/project-tidalwave)** — Independent video games, arcade fighters, and interactive media engineered in Godot 4.
 
 ---
 
@@ -380,6 +380,11 @@
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Devbook, enabling AI agents to query, author, manage, and execute dynamic prompt templates.*
 
+**[Devbook TUI](https://github.com/octopus-harness/devbook-tui)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
+  *A blazing-fast, keyboard-driven TUI interface for Devbook, featuring project navigation, prompt previewing, and dynamic host resolution.*
+
 **[Memorable](https://github.com/leouofa/memorable)**  
   ![Ruby on Rails](https://img.shields.io/badge/-Rails%208-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
   ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -390,6 +395,11 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
   *MCP Server for Memorable, enabling AI agents to query, recall, and vectorize persistent context and memories.*
+
+**[Memorable TUI](https://github.com/octopus-harness/memorable-tui)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Ratatui](https://img.shields.io/badge/-Ratatui-black?style=flat-square)  
+  *A blazing-fast, keyboard-driven TUI interface for Memorable, featuring 3-pane memory inspection, and semantic nearest-neighbor search.*
 
 **[Rapid UI](https://github.com/leouofa/rapid-ui)**  
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
