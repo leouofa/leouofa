@@ -26,6 +26,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-F3722C?style=flat-square)
 ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![egui](https://img.shields.io/badge/-egui-8A2BE2?style=flat-square)
 ![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=rust&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
