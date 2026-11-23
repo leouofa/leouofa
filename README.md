@@ -199,6 +199,13 @@
   ![Rayon](https://img.shields.io/badge/-Rayon-blue?style=flat-square)  
   *A 7-layer procedural abstract background and wallpaper studio in Rust, uniting computational geometry, OKLCH perceptual color palettes, and co-occurrence compatibility matrices for deterministic visual synthesis.*
 
+**[Time-Shift](https://github.com/loud-thunder/time-shift)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![egui](https://img.shields.io/badge/-egui-8A2BE2?style=flat-square)
+  ![CSS Keyframes](https://img.shields.io/badge/-CSS%20Keyframes-1572B6?style=flat-square)
+  ![SVG Animation](https://img.shields.io/badge/-SVG%20Animation-FF9900?style=flat-square)  
+  *A high-performance procedural animation studio in Rust for crafting seamless, infinitely tileable, pure CSS-animated vector backgrounds and geometric patterns.*
+
 **[Gridbeat](https://github.com/leouofa/gridbeat)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
