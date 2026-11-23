@@ -27,6 +27,7 @@
 ![RubyLLM](https://img.shields.io/badge/RubyLLM-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=rust&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -204,6 +205,18 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   ![Web](https://img.shields.io/badge/-Web%20Audio%20%2F%20MIDI-FF6C37?style=flat-square)  
   *Open-source interactive chord & scale visualizer supporting piano, guitar, ukulele, and Novation Launchpad grid controllers.*
+
+**[Time Circle](https://github.com/leouofa/time-circle)**  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+  ![egui](https://img.shields.io/badge/-egui-8A2BE2?style=flat-square)
+  ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)  
+  *An algorithmic harmony exploration engine, radial clockwork chord visualizer, and dynamic backing track synthesizer in Rust and WebAssembly with procedural SoundFont audio.*
+
+**[Time Circle MCP](https://github.com/leouofa/time-circle-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Time Circle, equipping AI agents with algorithmic music theory, dynamic accompaniment generation, harmonic mutation, and multi-track MIDI export.*
 
 **[Scratch Tools](https://github.com/leouofa/scratch-tools)**  
   ![Max for Live](https://img.shields.io/badge/-Max%20for%20Live-111111?style=flat-square)
