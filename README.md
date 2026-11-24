@@ -214,6 +214,11 @@
   ![Web](https://img.shields.io/badge/-Web%20Audio%20%2F%20MIDI-FF6C37?style=flat-square)  
   *Open-source interactive chord & scale visualizer supporting piano, guitar, ukulele, and Novation Launchpad grid controllers.*
 
+**[Gridbeat MCP](https://github.com/leouofa/gridbeat-mcp)**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)  
+  *MCP Server for Gridbeat, empowering AI assistants to map instrument chord fingerings and generate publication-ready vector PDF chord sheets across hardware controllers and acoustic instruments.*
+
 **[Time Circle](https://github.com/leouofa/time-circle)**  
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
   ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
