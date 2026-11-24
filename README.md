@@ -38,6 +38,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/-Pydantic%20AI-E92063?style=flat-square)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
@@ -386,6 +387,13 @@
   ![Markdown](https://img.shields.io/badge/-Markdown%20Runbooks-000000?style=flat-square&logo=markdown&logoColor=white)
   ![MCP Orchestration](https://img.shields.io/badge/-MCP%20Orchestration-blueviolet?style=flat-square)  
   *A lightweight, zero-bloat command protocol and isolated workspace harness for AI agents, dynamically orchestrating companion MCP tools via on-demand Markdown runbooks.*
+
+**[Agent Octopus](https://github.com/octopus-harness/agent-octopus)**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Pydantic AI](https://img.shields.io/badge/-Pydantic%20AI-E92063?style=flat-square)
+  ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat-square)
+  ![Interactive CLI](https://img.shields.io/badge/-Interactive%20CLI-4EAA25?style=flat-square)  
+  *A multi-agent CLI framework and orchestrator built with Pydantic AI and MCP, executing deterministic runbooks through isolated specialist agents.*
 
 **[Octo-Work](https://github.com/octopus-harness/octo-work)**  
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
