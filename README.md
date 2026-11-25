@@ -97,6 +97,13 @@
 ---
 
 ### 🎮 Games
+**[Colored Time](https://github.com/project-tidalwave/colored-time)**  
+  ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+  ![Jolt](https://img.shields.io/badge/-Jolt%203D%20Physics-FF6B6B?style=flat-square)
+  ![Shader](https://img.shields.io/badge/-GDShader-gray?style=flat-square)
+  ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)  
+  *A synesthetic jazz-rhythm match-3 puzzle game engineered in Godot 4 and Jolt 3D, featuring real-time audio DSP, procedural harmonic chimes, analytical GLSL/GDShader gems, and an audio-reactive 3D stage.*
+
 **[Side Beat](https://github.com/project-tidalwave/side-beat)**  
   ![Godot](https://img.shields.io/badge/-Godot%204%20(GDScript)-478CBF?style=flat-square&logo=godotengine&logoColor=white)
   ![Jolt](https://img.shields.io/badge/-Jolt%203D%20Physics-FF6B6B?style=flat-square)
