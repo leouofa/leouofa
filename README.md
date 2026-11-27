@@ -43,6 +43,7 @@
 ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=blender&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash / Zsh](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -218,6 +219,7 @@
 
 **[Abstract-Flight](https://github.com/loud-thunder/abstract-flight)**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![Blender](https://img.shields.io/badge/-Blender%204.x%20(EEVEE)-EA7600?style=flat-square&logo=blender&logoColor=white)
   ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)
   ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  
