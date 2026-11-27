@@ -216,6 +216,13 @@
   ![SVG Animation](https://img.shields.io/badge/-SVG%20Animation-FF9900?style=flat-square)  
   *A high-performance procedural animation studio in Rust for crafting seamless, infinitely tileable, pure CSS-animated vector backgrounds and geometric patterns.*
 
+**[Abstract-Flight](https://github.com/loud-thunder/abstract-flight)**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Blender](https://img.shields.io/badge/-Blender%204.x%20(EEVEE)-EA7600?style=flat-square&logo=blender&logoColor=white)
+  ![Audio DSP](https://img.shields.io/badge/-Audio%20DSP-FF5500?style=flat-square)
+  ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  
+  *A deterministic, audio-reactive procedural flight simulator and generative music video synthesizer built with Python and headless Blender, driven by offline multi-band FFT spectral analysis and Geometry Nodes.*
+
 **[Gridbeat](https://github.com/leouofa/gridbeat)**  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
